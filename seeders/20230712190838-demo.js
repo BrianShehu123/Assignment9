@@ -23,6 +23,14 @@ module.exports = {
       created_at: new Date(),
       updated_at: new Date(),
     },
+    {
+      title: "Chicken cutlet",
+      description: "Yummy",
+      ingredients: "Chicken, eggs, flour, herbs and spices",
+      instructions: "Combine eggs with flour and with herbs and spices and cover the chicken with it",
+      created_at: new Date(),
+      updated_at: new Date(),
+    }
     ], 
     {}
   );
